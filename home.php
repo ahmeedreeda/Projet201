@@ -55,8 +55,9 @@
       <a href="reservation.php" class="btn btn-success btn-lg">Faire une réservation</a>
     </div>
   </div>
+  
 
-  <!-- Script Bootstrap -->
+  
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
